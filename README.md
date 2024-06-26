@@ -1,4 +1,4 @@
-# Image classification: attempt 1
+# Image captioning: attempt 1
 
 Base code sourced from: https://ankur3107.github.io/blogs/the-illustrated-image-captioning-using-transformers/ 
 

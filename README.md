@@ -6,7 +6,7 @@ First attempt at using a ViT + GPT-2 model trained on COCO dataset to caption im
 Pictures provided by client and performance of clients model was used as a reference point to judge the performance of the current model.
 I have provided reports analysing models on loss metrics as well as visual judgement of captions vs images.
 The script provided trains the model partially, and this is then compared to a fully trained model sourced from Hugging face (references provided in the documents) as well as the clients' model.
-I have used knowledge gained from this project to determine direction of the hskinhikar/bounding_boxes_optimisation_RL project which has been my biggest project as part of my internship with DataVerze, which is still in progress.
+I have used knowledge gained from this project to determine direction of the hskinhikar/bounding_boxes_optimisation_RL project which has been my biggest project as part of my internship with DataVerze.
 
 Instructions to run the script:
 Run download_coco_dataset.py file to download the dataset.
